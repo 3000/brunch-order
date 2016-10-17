@@ -1,0 +1,17 @@
+{
+  "name": "brunch-order",
+  "version": "0.0.0",
+  "description": "Example/test project to demo vendor files are not ordered as described in docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies" : {
+    "brunch": "~2.8",
+    "javascript-brunch": "~2.0",
+    "coffee-script": "~1.6",
+    "coffee-script-brunch": "~2.1"
+  }
+}

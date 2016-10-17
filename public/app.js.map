@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/one.coffee","app/two.coffee","vendor/js-yaml.js"],"names":[],"mappings":"AAAA;;AAAA,MAAM;CCAN;;AAAA,MAAM;CCAN","file":"public/app.js","sourcesContent":["one = 1","two = 2","var js_yaml = {};"]}
